@@ -38,6 +38,16 @@ then command is
 -> then we can use only git push
 
 
+Work Flow
+
+-> make first github repository
+-> then we clone it in Visual code
+-> then make changes
+-> then run git add . command
+-> then run git commit -m "changes message" command
+-> then run git push origin main command
+
+
 
 
 
