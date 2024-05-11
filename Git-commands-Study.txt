@@ -1,0 +1,39 @@
+https://www.youtube.com/watch?v=Ez8F0nW6S-w&t=303s
+
+1) Git is Version control system
+2) Use to track history of our softwares
+    old history of our software
+3)  use for colaborate with different Software engineer
+4)  Github is the place where we can upload the projects.
+5)  folder is call Repository.
+6)  commit comand is used for finalised the changes 
+    which we have done.
+
+Command to Configure
+git config --global user.name "My Name"
+git config --global user.email "someone@email.com"
+git config --list
+
+
+Command
+
+Clone: cloning a repository on our local machine
+-> git clone <link>
+
+Comand for list the file is 
+-> ls
+Comand for list the file is with hidden files
+-> ls -a
+
+status: display the status of code
+
+If File changed and we have to save the changes
+then command is 
+-> add   git add <filename>  git add . ( for all files)
+-> commit  git commit -m "some message"
+-> push    git push origin main
+
+
+
+
+
