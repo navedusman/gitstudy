@@ -33,6 +33,10 @@ then command is
 -> commit  git commit -m "some message"
 -> push    git push origin main
 
+-> git push -u origin main
+   command to set always push in origin main
+-> then we can use only git push
+
 
 
 
